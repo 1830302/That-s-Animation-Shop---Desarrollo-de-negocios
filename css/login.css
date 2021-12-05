@@ -1,0 +1,38 @@
+
+
+.jumbotron{
+    margin-top: 0%;
+    padding: 2rem 1 rem;
+    margin-bottom: 2rem;
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.856), rgb(255, 254, 254),rgba(0, 0, 0, 0.856));
+    border-radius: 0.3rem;  
+}
+
+
+
+ /* Hola aaa*/
+ .row{
+    width: 50%;
+ }
+
+#img{
+    width: 65%;
+    margin-top: 0%;
+}
+
+main{
+    background-color: rgba(29, 31, 28, 0.644);
+}
+
+body{
+    background-image: url(../img/fondo1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+button{
+    width: 50%;
+   
+}
